@@ -1,7 +1,8 @@
 ---
-title: Visiting Goa
-date: 2019-09-07T05:43:53.681Z
-tags: 'travel, india, goa'
+title: Al rico pan
+date: 2022-12-21T15:53:53.183Z
+subtitle: subs
+tags: bread
 ---
 Lorem ipsum dolor sit amet, mei in iracundia comprehensam, dicit phaedrum ea vis. Ei purto iusto quo, nonumy honestatis usu no. Eam at lorem audire eligendi. Modus iriure dignissim has in, sed ut liber dicit mediocritatem. Et sed harum graecis, vitae admodum mel et, iracundia referrentur an sea.
 
